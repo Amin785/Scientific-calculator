@@ -11,8 +11,8 @@ It supports basic arithmetic operations as well as advanced scientific functions
 
 ## **Live Demo**
 
-Check out the live demo here: [Scientific Calculator Demo](https://username.github.io/Scientific-calculator/)  
-*(Replace `username` with your GitHub username if using GitHub Pages)*
+Check out the live demo here: [Scientific Calculator Demo](https://Amin785.github.io/Scientific-calculator/)  
+
 
 ---
 
